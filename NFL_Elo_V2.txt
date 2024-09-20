@@ -1,4 +1,6 @@
 Results are taken from https://www.espn.com/nfl/schedule/_/week/2/year/2024/seasontype/2
+Playoff games will probably have a Home Field Advantage of 65 Elo
+In some rare cases there will be no Home Field Advantage for either team
 
 ################################# THIS IS THE START POINT
 The National Football league has 32 teams. We are going to calculate the Elo ratings for each team using their win and loss record. The 32 teams are: 
