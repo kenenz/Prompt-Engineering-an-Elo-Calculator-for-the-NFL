@@ -40,7 +40,7 @@ At the start, each team has an Elo rating of 1500. K factor equals 20
 List each team and their current Elo rating.
 ################################# END START POINT
 ################################# WEEK 1 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 50 Elo points temporarily added to their Elo Rating. The 50 Elo points disappear after the calculations are completed.
+When processing the results the second team listed will have a Home Field Advantage of 50 Elo points temporarily added to their Elo Rating. The 50 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 50 Elo points added to their rating. Playoff games will be marked PLA and the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo rating. 
 Here are the results so far:
 Ravens vs. Chiefs 0-1
 Packers vs. Eagles 0-1
@@ -52,7 +52,7 @@ Texans vs. Colts 1-0
 Jaguars vs. Dolphins 0-1
 Panthers vs. Saints 0-1
 Vikings vs. Giants 1-0
-Raiders vs. Chargers 0-1
+NHF Raiders vs. Chargers 0-1
 Broncos vs. Seahawks 0-1
 Cowboys vs. Browns 1-0
 Commanders vs. Buccaneers 0-1
@@ -61,7 +61,7 @@ Jets vs. 49ers 0-1
 List each team and their current Elo rating to 2 decimal points.
 ################################# END WEEK 1 RESULTS
 ################################# WEEK 2 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 50 Elo points temporarily added to their Elo Rating. The 50 Elo points disappear after the calculations are completed.
+When processing the results the second team listed will have a Home Field Advantage of 50 Elo points temporarily added to their Elo Rating. The 50 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 50 Elo points added to their rating. Playoff games will be marked PLA and the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo rating. 
 Here are the latest results:
 Bills vs. Dolphins 1-0
 Saints vs. Cowboys 1-0
