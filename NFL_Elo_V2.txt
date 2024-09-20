@@ -1,5 +1,5 @@
 Results are taken from https://www.espn.com/nfl/schedule/_/week/2/year/2024/seasontype/2
-PLA designation has been added for Playoff game Home Field Advantage of 65 Elo
+
 NHF designation has been added for no Home Field Advantage
 When playoff season comes around, there will most likely be an Elo adjustment for the head coaches with the best playoff records
 
@@ -41,7 +41,7 @@ At the start, each team has an Elo rating of 1500. K factor equals 20
 List each team and their current Elo rating.
 ################################# END START POINT
 ################################# WEEK 1 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 50 Elo points temporarily added to their Elo Rating. The 50 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 50 Elo points added to their rating. Playoff games will be marked PLA and the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo rating. 
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating.
 Here are the results so far:
 Ravens vs. Chiefs 0-1
 Packers vs. Eagles 0-1
@@ -62,7 +62,7 @@ Jets vs. 49ers 0-1
 List each team and their current Elo rating to 2 decimal points.
 ################################# END WEEK 1 RESULTS
 ################################# WEEK 2 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 50 Elo points temporarily added to their Elo Rating. The 50 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 50 Elo points added to their rating. Playoff games will be marked PLA and the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo rating. 
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. 
 Here are the latest results:
 Bills vs. Dolphins 1-0
 Saints vs. Cowboys 1-0
