@@ -83,5 +83,22 @@ Falcons vs. Eagles 1-0
 List each team and their current Elo rating to 2 decimal points.
 ################################# END WEEK 2 RESULTS
 ################################# WEEK 3 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating.
 Here are the latest results:
-
+Patriots vs. Jets 0-1
+Giants vs. Browns 1-0
+Packers vs. Titans 1-0
+Bears vs. Colts 0-1
+Texans vs. Vikings 1-0
+Eagles vs. Saints 1-0
+Chargers vs. Steelers 0-1
+Broncos vs. Buccaneers 1-0
+Panthers vs. Raiders 1-0
+Dolphins vs. Seahawks 0-1
+Ravens vs. Cowboys 1-0
+49ers vs Rams 0-1
+Lions vs. Cardinals 1-0
+Chiefs vs. Falcons 1-0
+Jaguars vs. Bills 0-1
+Commanders vs. Bengals 1-0
+List each team and their current Elo rating to 2 decimal points.
