@@ -102,3 +102,25 @@ Chiefs vs. Falcons 1-0
 Jaguars vs. Bills 0-1
 Commanders vs. Bengals 1-0
 List each team and their current Elo rating to 2 decimal points.
+################################# END WEEK 3 RESULTS
+################################# WEEK 4 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating.
+Here are the latest results:
+Cowboys vs. Giants 1-0
+Saints vs. Falcons 1-0
+Rams vs.Bears 0-1
+Vikings vs. Packers 1-0
+Steelers vs. Colts 0-1
+Broncos vs. Jets 1-0
+Eagles vs. Buccaneers 0-1
+Bengals vs. Panthers 1-0
+Jaguars vs. Texans 0-1
+Commanders vs. Cardinals 1-0
+Patriots vs. 49ers 0-1
+Browns vs. Raiders 0-1
+Chiefs vs. Chargers 1-0
+Bills vs. Ravens 0-1
+Titans vs. Dolphins 1-0
+Seahawks vs. Lions 0-1
+List each team and their current Elo rating to 2 decimal points.
+################################# END WEEK 4 RESULTS
