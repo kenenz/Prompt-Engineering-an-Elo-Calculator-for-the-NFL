@@ -124,3 +124,22 @@ Titans vs. Dolphins 1-0
 Seahawks vs. Lions 0-1
 List each team and their current Elo rating to 2 decimal points.
 ################################# END WEEK 4 RESULTS
+################################# WEEK 5 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating.
+Here are the latest results:
+Buccaneers vs. Falcons 0-1
+Jets vs. Vikings 0-1
+Panthers vs. Bears 0-1
+Ravens vs. Bengals 1-0
+Dolphins vs. Patriots 1-0
+Browns vs. Commanders 0-1
+Colts vs. Jaguars 0-1
+Bills vs. Texans 0-1
+Raiders vs. Broncos 0-1
+Cardinals vs. 49ers 1-0
+Packers vs. Rams 1-0
+Giants vs. Seahawks 1-0
+Cowboys vs. Steelers 1-0
+Saints vs. Chiefs 0-1
+List each team and their current Elo rating to 2 decimal points.
+################################# END WEEK 5 RESULTS
