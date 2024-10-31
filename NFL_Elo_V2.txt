@@ -184,3 +184,24 @@ Ravens vs. Buccaneers 1-0
 Chargers vs. Cardinals 0-1
 List each team and their current Elo rating to 2 decimal points.
 ################################# END WEEK 7 RESULTS
+################################# WEEK 8 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating.
+Here are the results so far:
+Vikings vs. Rams 0-1
+Eagles vs. Bengals 1-0
+Ravens vs. Browns 0-1
+Titans vs. Lions 0-1
+Cardinals vs Dolphins 1-0
+Jets vs. Patriots 0-1
+Falcons vs. Buccaneers 1-0
+Packers vs. Jaguars 1-0
+Colts vs. Texans 0-1
+Saints vs. Chargers 0-1
+Bills vs. Seahawks 1-0
+Panthers vs. Broncos 0-1
+Chiefs vs. Raiders 1-0
+Bears vs. Commanders 0-1
+Cowboys vs. 49ers 0-1
+Giants vs. Steelers 0-1
+List each team and their current Elo rating to 2 decimal points.
+################################# END WEEK 8 RESULTS
