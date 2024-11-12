@@ -224,3 +224,21 @@ Colts vs. Vikings 0-1
 Buccaneers vs. Chiefs 0-1
 List each team and their current Elo rating to 2 decimal points.
 ################################# END WEEK 9 RESULTS
+################################# WEEK 10 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating.
+Bengals vs. Ravens 0-1
+Giants vs. Panthers 0-1
+Patriots vs. Bears 1-0
+Bills vs. Colts 1-0
+Broncos vs. Chiefs 0-1
+Falcons vs. Saints 0-1
+49ers vs. Buccaneers 1-0
+Steelers vs. Commanders 1-0
+Vikings vs. Jaguars 1-0
+Titans vs. Chargers 0-1
+Eagles vs. Cowboys 1-0
+Jets vs. Cardinals 0-1
+Lions vs. Texans 1-0
+Dolphins vs. Rams 1-0
+List each team and their current Elo rating to 2 decimal points.
+################################# END WEEK 10 RESULTS
