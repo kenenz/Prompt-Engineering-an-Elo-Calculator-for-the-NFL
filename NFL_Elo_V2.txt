@@ -260,3 +260,20 @@ Bengals vs. Chargers 0-1
 Texans vs. Cowboys 1-0
 List each team and their current Elo rating to 2 decimal points.
 ################################# END WEEK 11 RESULTS
+################################# WEEK 12 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating.
+Steelers vs. Browns 0-1
+Vikings vs. Bears 1-0
+Lions vs. Colts 1-0
+Patriots vs. Dolphins 0-1
+Buccaneers vs. Giants 1-0
+Cowboys vs. Commanders  1-0
+Chiefs vs. Panthers 1-0
+Titans vs. Texans 1-0
+Broncos vs. Raiders 1-0
+49ers vs. Packers 1-0
+Cardinals vs. Seahawks 0-1
+Eagles vs. Rams 1-0
+Ravens vs. Chargers 1-0
+List each team and their current Elo rating to 2 decimal points.
+################################# END WEEK 12 RESULTS
