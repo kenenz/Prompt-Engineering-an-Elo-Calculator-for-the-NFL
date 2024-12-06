@@ -277,3 +277,24 @@ Eagles vs. Rams 1-0
 Ravens vs. Chargers 1-0
 List each team and their current Elo rating to 2 decimal points.
 ################################# END WEEK 12 RESULTS
+################################# WEEK 13 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating.
+Here are the results so far:
+Bears vs. Lions 0-1
+Giants vs. Cowboys 0-1
+Dolphins vs. Packers 0-1
+Raiders vs. Chiefs 0-1
+Chargers vs. Falcons 1-0
+Steelers vs. Bengals 1-0
+Cardinals vs. Vikings 0-1
+Colts vs. Patriots 1-0
+Seahawks vs. Jets 1-0
+Titans vs. Commanders 0-1
+Texans vs. Jaguars 1-0
+Rams vs. Saints 1-0
+Buccaneers vs. Panthers 1-0
+Eagles vs. Ravens 1-0
+49ers vs. Bills 0-1
+Browns vs. Broncos 0-1
+List each team and their current Elo rating to 2 decimal points.
+################################# END WEEK 13 RESULTS
