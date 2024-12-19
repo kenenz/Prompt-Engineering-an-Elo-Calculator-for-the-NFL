@@ -329,3 +329,24 @@ Chargers vs. Chiefs 0-1
 Bengals vs. Cowboys 1-0
 List each team and their current Elo rating to 2 decimal points.
 ################################# END WEEK 14 RESULTS
+################################# WEEK 15 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating.
+Here are the results so far:
+Rams vs. 49ers 1-0
+Chiefs vs. Browns 1-0
+Bengals vs. Titans 1-0
+Commanders vs. Saints 1-0
+Ravens vs. Giants 1-0
+Cowboys vs. Panthers 1-0
+Jets vs. Jaguars 1-0
+Dolphins vs. Texans 0-1
+Colts vs. Broncos 0-1
+Bills vs. Lions 1-0
+Steelers vs. Eagles 0-1
+Patriots vs. Cardinals 0-1
+Buccaneers vs. Chargers 1-0
+Packers vs. Seahawks 1-0
+Bears vs. Vikings 0-1
+Falcons vs. Raiders 1-0
+List each team and their current Elo rating to 2 decimal points.
+################################# END WEEK 15 RESULTS
