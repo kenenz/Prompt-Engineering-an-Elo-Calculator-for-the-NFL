@@ -350,3 +350,24 @@ Bears vs. Vikings 0-1
 Falcons vs. Raiders 1-0
 List each team and their current Elo rating to 2 decimal points.
 ################################# END WEEK 15 RESULTS
+################################# WEEK 16 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating.
+Here are the results so far:
+Broncos vs. Chargers 0-1
+Texans vs. Chiefs 0-1
+Steelers vs. Ravens 0-1
+Giants vs. Falcons 0-1
+Lions vs. Bears 1-0
+Browns vs. Bengals 0-1
+Titans vs. Colts 0-1
+Rams vs. Jets 1-0
+Eagles vs. Commanders 0-1
+Cardinals vs. Panthers 0-1
+Vikings vs. Seahawks 1-0
+Patriots vs. Bills 0-1
+Jaguars vs. Raiders 0-1
+49ers vs. Dolphins 0-1
+Buccaneers vs. Cowboys 0-1
+Saints vs. Packers 0-1
+List each team and their current Elo rating to 2 decimal points.
+################################# END WEEK 16 RESULTS
