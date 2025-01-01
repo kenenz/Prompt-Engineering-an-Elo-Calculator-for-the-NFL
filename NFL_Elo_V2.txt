@@ -371,3 +371,24 @@ Buccaneers vs. Cowboys 0-1
 Saints vs. Packers 0-1
 List each team and their current Elo rating to 2 decimal points.
 ################################# END WEEK 16 RESULTS
+################################# WEEK 17 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating.
+Here are the results so far:
+Chiefs vs. Steelers 1-0
+Ravens vs. Texans 1-0
+Seahawks vs. Bears 1-0
+Chargers vs. Patriots 1-0
+Broncos vs. Bengals 0-1
+Cardinals vs. Rams 0-1
+Jets vs. Bills 0-1
+Raiders vs. Saints 1-0
+Colts vs. Giants 0-1
+Cowboys vs. Eagles 0-1
+Panthers vs. Buccaneers 0-1
+Titans vs. Jaguars 0-1
+Dolphins vs. Browns 1-0
+Packers vs. Vikings 0-1
+Falcons vs. Commanders 0-1
+Lions vs. 49ers 1-0
+List each team and their current Elo rating to 2 decimal points.
+################################# END WEEK 17 RESULTS
