@@ -1,0 +1,315 @@
+################################# THIS IS THE START POINT
+The National Football league has 32 teams. We are going to calculate the Elo ratings for each team using their win and loss record. The 32 teams are: 
+Cardinals
+Falcons
+Ravens
+Bills
+Panthers
+Bears
+Bengals
+Browns
+Cowboys
+Broncos
+Lions
+Packers
+Texans
+Colts
+Jaguars
+Chiefs
+Raiders
+Chargers
+Rams
+Dolphins
+Vikings
+Patriots
+Saints
+Giants
+Jets
+Eagles
+Steelers
+49ers
+Seahawks
+Buccaneers
+Titans
+Commanders.
+At the start of the season, each team has an Elo rating of 1500. K factor equals 20
+List each team and their current Elo rating.
+################################# END START POINT
+################################# START REGULAR SEASON
+When processing game results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating.
+Here are the game results:
+Ravens vs. Chiefs 0-1
+Packers vs. Eagles 0-1
+Steelers vs. Falcons 1-0
+Cardinals vs. Bills 0-1
+Titans vs. Bears 0-1
+Patriots vs. Bengals 1-0
+Texans vs. Colts 1-0
+Jaguars vs. Dolphins 0-1
+Panthers vs. Saints 0-1
+Vikings vs. Giants 1-0
+NHF Raiders vs. Chargers 0-1
+Broncos vs. Seahawks 0-1
+Cowboys vs. Browns 1-0
+Commanders vs. Buccaneers 0-1
+Rams vs. Lions 0-1
+Jets vs. 49ers 0-1
+Bills vs. Dolphins 1-0
+Saints vs. Cowboys 1-0
+Buccaneers vs. Lions 1-0
+Colts vs. Packers 0-1
+Jets vs. Titans 1-0
+49ers vs.Vikings 0-1
+Seahawks vs. Patriots 1-0
+Giants vs. Commanders 0-1
+Chargers vs. Panthers 1-0
+Browns vs. Jaguars 1-0
+Raiders vs Ravens 1-0
+Rams vs. Cardinals 0-1
+Steelers vs. Broncos 1-0
+Bengals vs. Chiefs 0-1
+Bears vs. Texans 0-1
+Falcons vs. Eagles 1-0
+Patriots vs. Jets 0-1
+Giants vs. Browns 1-0
+Packers vs. Titans 1-0
+Bears vs. Colts 0-1
+Texans vs. Vikings 0-1
+Eagles vs. Saints 1-0
+Chargers vs. Steelers 0-1
+Broncos vs. Buccaneers 1-0
+Panthers vs. Raiders 1-0
+Dolphins vs. Seahawks 0-1
+Ravens vs. Cowboys 1-0
+49ers vs Rams 0-1
+Lions vs. Cardinals 1-0
+Chiefs vs. Falcons 1-0
+Jaguars vs. Bills 0-1
+Commanders vs. Bengals 1-0
+Cowboys vs. Giants 1-0
+Saints vs. Falcons 0-1
+Rams vs.Bears 0-1
+Vikings vs. Packers 1-0
+Steelers vs. Colts 0-1
+Broncos vs. Jets 1-0
+Eagles vs. Buccaneers 0-1
+Bengals vs. Panthers 1-0
+Jaguars vs. Texans 0-1
+Commanders vs. Cardinals 1-0
+Patriots vs. 49ers 0-1
+Browns vs. Raiders 0-1
+Chiefs vs. Chargers 1-0
+Bills vs. Ravens 0-1
+Titans vs. Dolphins 1-0
+Seahawks vs. Lions 0-1
+Buccaneers vs. Falcons 0-1
+Jets vs. Vikings 0-1
+Panthers vs. Bears 0-1
+Ravens vs. Bengals 1-0
+Dolphins vs. Patriots 1-0
+Browns vs. Commanders 0-1
+Colts vs. Jaguars 0-1
+Bills vs. Texans 0-1
+Raiders vs. Broncos 0-1
+Cardinals vs. 49ers 1-0
+Packers vs. Rams 1-0
+Giants vs. Seahawks 1-0
+Cowboys vs. Steelers 1-0
+Saints vs. Chiefs 0-1
+49ers vs. Seahawks 1-0
+Jaguars vs. Bears 0-1
+Cardinals vs. Packers 0-1
+Colts vs. Titans 1-0
+Texans vs. Patriots 1-0
+Buccaneers vs. Saints 1-0
+Browns vs. Eagles 0-1
+NHF Commanders vs. Ravens 0-1
+Chargers vs. Broncos 1-0
+Steelers vs. Raiders 1-0
+Lions vs. Cowboys 1-0
+Falcons vs. Panthers 1-0
+Bengals vs. Giants 1-0
+Bills vs. Jets 1-0
+Broncos vs. Saints 1-0
+Patriots vs. Jaguars 0-1
+Seahawks vs. Falcons 1-0
+Titans vs. Bills 0-1
+Bengals vs. Browns 1-0
+Texans vs. Packers 0-1
+Dolphins vs. Colts 0-1
+Lions vs. Vikings 1-0
+NHF Eagles vs. Giants 1-0
+NHF Raiders vs. Rams 0-1
+Panthers vs. Commanders 0-1
+Chiefs vs. 49ers 1-0
+Jets vs. Steelers 0-1
+Ravens vs. Buccaneers 1-0
+Chargers vs. Cardinals 0-1
+Vikings vs. Rams 0-1
+Eagles vs. Bengals 1-0
+Ravens vs. Browns 0-1
+Titans vs. Lions 0-1
+Cardinals vs Dolphins 1-0
+Jets vs. Patriots 0-1
+Falcons vs. Buccaneers 1-0
+Packers vs. Jaguars 1-0
+Colts vs. Texans 0-1
+Saints vs. Chargers 0-1
+Bills vs. Seahawks 1-0
+Panthers vs. Broncos 0-1
+Chiefs vs. Raiders 1-0
+Bears vs. Commanders 0-1
+Cowboys vs. 49ers 0-1
+Giants vs. Steelers 0-1
+Texans vs. Jets 0-1
+Cowboys vs. Falcons 0-1
+Dolphins vs. Bills 0-1
+Raiders vs. Bengals 0-1
+Chargers vs. Browns 1-0
+Patriots vs. Titans 0-1
+Commanders vs. Giants 1-0
+Saints vs. Panthers 0-1
+Broncos vs. Ravens 0-1
+Jaguars vs. Eagles 0-1
+Bears vs. Cardinals 0-1
+Lions vs. Packers 1-0
+Rams vs. Seahawks 1-0
+Colts vs. Vikings 0-1
+Buccaneers vs. Chiefs 0-1
+Bengals vs. Ravens 0-1
+Giants vs. Panthers 0-1
+Patriots vs. Bears 1-0
+Bills vs. Colts 1-0
+Broncos vs. Chiefs 0-1
+Falcons vs. Saints 0-1
+49ers vs. Buccaneers 1-0
+Steelers vs. Commanders 1-0
+Vikings vs. Jaguars 1-0
+Titans vs. Chargers 0-1
+Eagles vs. Cowboys 1-0
+Jets vs. Cardinals 0-1
+Lions vs. Texans 1-0
+Dolphins vs. Rams 1-0
+Commanders vs. Eagles 0-1
+Packers vs. Bears 1-0
+Jaguars vs. Lions 0-1
+Vikings vs. Titans 1-0
+Raiders vs. Dolphins 0-1
+Rams vs. Patriots 1-0
+Browns vs. Saints 0-1
+Colts vs. Jets 1-0
+Ravens vs. Steelers 0-1
+Falcons vs. Broncos 0-1
+Seahawks vs. 49ers 1-0
+Chiefs vs. Bills 0-1
+Bengals vs. Chargers 0-1
+Texans vs. Cowboys 1-0
+Steelers vs. Browns 0-1
+Vikings vs. Bears 1-0
+Lions vs. Colts 1-0
+Patriots vs. Dolphins 0-1
+Buccaneers vs. Giants 1-0
+Cowboys vs. Commanders  1-0
+Chiefs vs. Panthers 1-0
+Titans vs. Texans 1-0
+Broncos vs. Raiders 1-0
+49ers vs. Packers 0-1
+Cardinals vs. Seahawks 0-1
+Eagles vs. Rams 1-0
+Ravens vs. Chargers 1-0
+Bears vs. Lions 0-1
+Giants vs. Cowboys 0-1
+Dolphins vs. Packers 0-1
+Raiders vs. Chiefs 0-1
+Chargers vs. Falcons 1-0
+Steelers vs. Bengals 1-0
+Cardinals vs. Vikings 0-1
+Colts vs. Patriots 1-0
+Seahawks vs. Jets 1-0
+Titans vs. Commanders 0-1
+Texans vs. Jaguars 1-0
+Rams vs. Saints 1-0
+Buccaneers vs. Panthers 1-0
+NHF Eagles vs. Ravens 1-0
+49ers vs. Bills 0-1
+Browns vs. Broncos 0-1
+Packers vs. Lions 0-1
+Jaguars vs. Titans 1-0
+Jets vs. Dolphins 0-1
+Falcons vs. Vikings 0-1
+Saints vs. Giants 1-0
+Panthers vs. Eagles 0-1
+Browns vs. Steelers 0-1
+Raiders vs. Buccaneers 0-1
+Seahawks vs. Cardinals 1-0
+Bills vs. Rams 0-1
+Bears vs. 49ers 0-1
+Chargers vs. Chiefs 0-1
+Bengals vs. Cowboys 1-0
+Rams vs. 49ers 1-0
+Chiefs vs. Browns 1-0
+Bengals vs. Titans 1-0
+Commanders vs. Saints 1-0
+Ravens vs. Giants 1-0
+Cowboys vs. Panthers 1-0
+Jets vs. Jaguars 1-0
+Dolphins vs. Texans 0-1
+Colts vs. Broncos 0-1
+Bills vs. Lions 1-0
+Steelers vs. Eagles 0-1
+Patriots vs. Cardinals 0-1
+Buccaneers vs. Chargers 1-0
+Packers vs. Seahawks 1-0
+Bears vs. Vikings 0-1
+Falcons vs. Raiders 1-0
+Broncos vs. Chargers 0-1
+Texans vs. Chiefs 0-1
+Steelers vs. Ravens 0-1
+Giants vs. Falcons 0-1
+Lions vs. Bears 1-0
+Browns vs. Bengals 0-1
+Titans vs. Colts 0-1
+Rams vs. Jets 1-0
+Eagles vs. Commanders 0-1
+Cardinals vs. Panthers 0-1
+Vikings vs. Seahawks 1-0
+Patriots vs. Bills 0-1
+Jaguars vs. Raiders 0-1
+49ers vs. Dolphins 0-1
+Buccaneers vs. Cowboys 0-1
+Saints vs. Packers 0-1
+Chiefs vs. Steelers 1-0
+Ravens vs. Texans 1-0
+Seahawks vs. Bears 1-0
+Chargers vs. Patriots 1-0
+Broncos vs. Bengals 0-1
+Cardinals vs. Rams 0-1
+Jets vs. Bills 0-1
+Raiders vs. Saints 1-0
+Colts vs. Giants 0-1
+Cowboys vs. Eagles 0-1
+Panthers vs. Buccaneers 0-1
+Titans vs. Jaguars 0-1
+Dolphins vs. Browns 1-0
+Packers vs. Vikings 0-1
+Falcons vs. Commanders 0-1
+Lions vs. 49ers 1-0
+Browns vs. Ravens 0-1
+Bengals vs. Steelers 1-0
+Panthers vs. Falcons 1-0
+Commanders vs. Cowboys 1-0
+Bears vs. Packers 1-0
+Texans vs. Titans 1-0
+Jaguars vs. Colts 0-1
+Bills vs. Patriots 0-1
+NHF Giants vs. Eagles 0-1
+Saints vs. Buccaneers 0-1
+Chiefs vs. Broncos 0-1
+Chargers vs. Raiders 1-0
+Seahawks vs. Rams 1-0
+Dolphins vs. Jets 0-1
+49ers vs. Cardinals 0-1
+Vikings vs. Lions 0-1
+List each team and their current Elo rating to 2 decimal points in alphabetical order.
+################################# END 2024-2025 REGULAR SEASON
+
