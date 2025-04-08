@@ -1,0 +1,56 @@
+This is the prompt for the NFL season which starts in 2025. A few changes from last year: In week 1, all teams start with an Elo of 1500, EXCEPT the final 4 teams from last year's playoffs. Those 4 teams will start with an Elo of 1565, equivalent to a home field advantage.
+
+The NHF designator for no Home Field Advantage will remain.
+
+Games which will have NHF designation based on proximity of the teams and fan sentiment are:
+Jets vs. Giants
+Giants vs. Jets
+Raiders vs. Chargers
+Raiders vs. Rams
+Rams vs. Chargers
+Ravens vs. Commanders
+Eagles vs. Ravens
+Eagles vs. Commanders
+Jets vs. Eagles
+Giants vs. Eagles
+
+################################# THIS IS THE START POINT
+The National Football league has 32 teams. We are going to calculate the Elo ratings for each team using their win and loss record. The 32 teams, and their initial Elo ratings are: 
+Cardinals,1500
+Falcons,1500
+Ravens,1500
+Bills,1565
+Panthers,1500
+Bears,1500
+Bengals,1500
+Browns,1500
+Cowboys,1500
+Broncos,1500
+Lions,1500
+Packers,1500
+Texans,1500
+Colts,1500
+Jaguars,1500
+Chiefs,1565
+Raiders,1500
+Chargers,1500
+Rams,1500
+Dolphins,1500
+Vikings,1500
+Patriots,1500
+Saints,1500
+Giants,1500
+Jets,1500
+Eagles,1565
+Steelers,1500
+49ers,1500
+Seahawks,1500
+Buccaneers,1500
+Titans,1500
+Commanders,1565
+List each team and their current Elo rating.
+################################# END START POINT
+################################# WEEK 1 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating.
+Here are the results so far:
+################################# END WEEK 1 RESULTS
