@@ -8,9 +8,13 @@ Giants vs. Jets
 Raiders vs. Chargers
 Raiders vs. Rams
 Rams vs. Chargers
+Chargers vs. Rams
 Ravens vs. Commanders
+Commanders vs. Ravens
 Eagles vs. Ravens
+Ravens vs. Eagles
 Eagles vs. Commanders
+Commanders vs. Eagles
 Jets vs. Eagles
 Giants vs. Eagles
 
