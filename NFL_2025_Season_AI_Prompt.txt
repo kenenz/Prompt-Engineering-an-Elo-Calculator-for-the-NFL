@@ -117,3 +117,24 @@ Chiefs vs. Giants 1-0
 Lions vs. Ravens 1-0
 List each team and their current Elo rating to 2 decimal points.
 ################################# END WEEK 3 RESULTS
+################################# WEEK 4 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
+Here are the results so far:
+Seahawks vs. Cardinals 1-0
+Vikings vs. Steelers 0-1
+Commanders vs. Falcons 0-1
+Saints vs. Bills 0-1
+Browns vs. Lions 0-1
+Panthers vs. Patriots 0-1
+Chargers vs. Giants 0-1
+Eagles vs. Buccaneers 1-0
+Titans vs. Texans 0-1
+Colts vs. Rams 0-1
+Jaguars vs.49ers 1-0
+Ravens vs. Chiefs 0-1
+Bears vs. Raiders 1-0
+Packers vs. Cowboys 0.5–0.5
+Jets vs. Dolphins 0-1
+Bengals vs. Broncos 0-1
+List each team and their current Elo rating to 2 decimal points.
+################################# END WEEK 4 RESULTS
