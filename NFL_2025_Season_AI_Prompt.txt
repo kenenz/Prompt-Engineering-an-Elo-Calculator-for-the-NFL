@@ -17,6 +17,8 @@ Eagles vs. Commanders
 Commanders vs. Eagles
 Jets vs. Eagles
 Giants vs. Eagles
+Colts vs. Bengals
+Bengals vs. Colts
 
 ################################# THIS IS THE START POINT
 The National Football league has 32 teams. We are going to calculate the Elo ratings for each team using their win and loss record. The 32 teams, and their initial Elo ratings are: 
