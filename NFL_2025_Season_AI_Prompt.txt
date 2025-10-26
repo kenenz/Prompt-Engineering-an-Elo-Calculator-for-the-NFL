@@ -142,3 +142,21 @@ Jets vs. Dolphins 0-1
 Bengals vs. Broncos 0-1
 List each team and their current Elo rating to 2 decimal points.
 ################################# END WEEK 4 RESULTS
+################################# WEEK 5 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
+Here are the results so far:
+49ers vs. Rams 1-0
+Vikings vs. Browns 1-0
+Raiders vs. Colts 0-1
+Giants vs. Saints 0-1
+Cowboys vs. Jets 1-0
+Broncos vs. Eagles 1-0
+Dolphins vs. Panthers 0-1
+Texans vs. Ravens 1-0
+Titans vs. Cardinals 1-0
+Buccaneers vs. Seahawks 1-0
+Lions vs. Bengals 1-0
+Commanders vs. Chargers 1-0
+Patriots vs. Bills 1-0
+Chiefs vs. Jaguars 0-1
+################################# END WEEK 5 RESULTS
