@@ -1,5 +1,7 @@
 This is the prompt for the NFL season which starts in 2025. A few changes from last year: In week 1, all teams start with an Elo of 1500, EXCEPT the final 4 teams from last year's playoffs (Eagles, Chiefs, Bills, Commanders). Those 4 teams will start with an Elo of 1565, equivalent to a home field advantage. 6 other teams performed well below average, with only 3 wins last season (Browns, Titans, Giants), and 4 wins last season (Patriots, Raiders, Jaguars) Those 6 teams will start the season with a 65 point disadvantage from average (1435).
 
+Results are taken from https://www.espn.com/nfl/schedule/_/week/1/year/2025/seasontype/2
+
 The NHF designator for no Home Field Advantage will remain.
 
 Games which will have NHF designation based on proximity of the teams and fan sentiment are:
