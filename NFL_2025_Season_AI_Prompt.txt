@@ -160,3 +160,22 @@ Commanders vs. Chargers 1-0
 Patriots vs. Bills 1-0
 Chiefs vs. Jaguars 0-1
 ################################# END WEEK 5 RESULTS
+################################# WEEK 6 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
+Here are the results so far:
+NHF Eagles vs. Giants 0-1
+Broncos vs. Jets 1-0
+Cardinals vs. Colts 0-1
+Chargers vs. Dolphins 1-0
+Patriots vs. Saints 1-0
+Browns vs. Steelers 0-1
+Cowboys vs. Panthers 0-1
+Seahawks vs. Jaguars 1-0
+Rams vs. Ravens 1-0
+Titans vs. Raiders 0-1
+Bengals vs. Packers 0-1
+49ers vs. Buccaneers 0-1
+Lions vs. Chiefs 0-1
+Bills vs. Falcons 0-1
+Bears vs. Commanders 1-0
+################################# END WEEK 6 RESULTS
