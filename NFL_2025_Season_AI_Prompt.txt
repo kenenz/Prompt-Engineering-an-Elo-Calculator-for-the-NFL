@@ -198,3 +198,20 @@ Falcons vs. 49ers 0-1
 Buccaneers vs. Lions 0-1
 Texans vs. Seahawks 0-1
 ################################# END WEEK 7 RESULTS
+################################# WEEK 8 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
+Here are the results so far:
+Vikings vs. Chargers 0-1
+Dolphins vs. Falcons 1-0
+Jets vs. Bengals 1-0
+Browns vs. Patriots 0-1
+NHF Giants vs. Eagles 0-1
+Bills vs. Panthers 1-0
+Bears vs. Ravens 0-1
+49ers vs. Texans 0-1
+Buccaneers vs. Saints 1-0
+Cowboys vs. Broncos 0-1
+Titans vs. Colts 0-1
+Packers vs. Steelers 1-0
+Commanders vs. Chiefs 0-1
+################################# END WEEK 8 RESULTS
