@@ -215,3 +215,21 @@ Titans vs. Colts 0-1
 Packers vs. Steelers 1-0
 Commanders vs. Chiefs 0-1
 ################################# END WEEK 8 RESULTS
+################################# WEEK 9 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
+Here are the results so far:
+Ravens vs. Dolphins 1-0
+Bears vs. Bengals 1-0
+Vikings vs. Lions 1-0
+Panthers vs. Packers 1-0
+Chargers vs. Titans 1-0
+Falcons vs. Patriots 0-1
+49ers vs. Giants 1-0
+Colts vs. Steelers 0-1
+Broncos vs. Texans 1-0
+Jaguars vs. Raiders 1-0
+Saints vs. Rams 0-1
+Chiefs vs. Bills 0-1
+Seahawaks vs. Commanders 1-0
+Cardinals vs. Cowboys 1-0
+################################# END WEEK 9 RESULTS
