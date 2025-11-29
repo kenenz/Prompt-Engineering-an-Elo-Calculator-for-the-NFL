@@ -251,3 +251,22 @@ Lions vs. Commanders 1-0
 Steelers vs. Chargers 0-1
 Eagles vs. Packers 1-0
 ################################# END WEEK 10 RESULTS
+################################# WEEK 11 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
+Here are the results so far:
+Jets vs. Patriots 0-1
+Commanders vs. Dolphins 0-1
+Panthers vs. Falcons 1-0
+Buccaneers vs. Bills 0-1
+Texans vs. Titans 1-0
+Bears vs. Vikings 1-0
+Packers vs. Giants 1-0
+Bengals vs. Steelers 0-1
+Chargers vs. Jaguars 0-1
+Seahawks vs. Rams 0-1
+49ers vs. Cardinals 1-0
+Ravens vs. Browns 1-0
+Chiefs vs. Broncos 0-1
+Lions vs. Eagles 0-1
+Cowboys vs. Raiders 1-0
+################################# END WEEK 11 RESULTS
