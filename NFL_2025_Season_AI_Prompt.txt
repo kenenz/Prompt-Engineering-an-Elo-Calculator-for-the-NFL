@@ -233,3 +233,21 @@ Chiefs vs. Bills 0-1
 Seahawaks vs. Commanders 1-0
 Cardinals vs. Cowboys 1-0
 ################################# END WEEK 9 RESULTS
+################################# WEEK 10 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
+Here are the results so far:
+Raiders vs. Broncos 0-1
+Falcons vs. Colts 0-1
+Giants vs. Bears 0-1
+Bills vs. Dolphins 0-1
+Ravens vs. Vikings 1-0
+Browns vs. Jets 0-1
+Patriots vs. Buccaneers 1-0
+Saints vs. Panthers 1-0
+Jaguars vs. Texans 0-1
+Cardinals vs. Seahawks 0-1
+Rams vs. 49ers 1-0
+Lions vs. Commanders 1-0
+Steelers vs. Chargers 0-1
+Eagles vs. Packers 1-0
+################################# END WEEK 10 RESULTS
