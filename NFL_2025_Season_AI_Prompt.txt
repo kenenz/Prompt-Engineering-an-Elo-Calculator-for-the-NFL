@@ -270,3 +270,21 @@ Chiefs vs. Broncos 0-1
 Lions vs. Eagles 0-1
 Cowboys vs. Raiders 1-0
 ################################# END WEEK 11 RESULTS
+################################# WEEK 12 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
+Here are the results so far:
+Bills vs. Texans 0-1
+Steelers vs. Bears 0-1
+Patriots vs. Bengals 1-0
+Giants vs. Lions 0-1
+Vikings vs. Packers 0-1
+Seahawks vs. Titans 1-0
+Colts vs. Chiefs 0-1
+Jets vs. Ravens 0-1
+Browns vs. Raiders 1-0
+Jaguars vs. Cardinals 1-0
+Eagles vs. Cowboys 0-1
+Falcons vs. Saints 1-0
+Buccaneers vs. Rams 0-1
+Panthers vs. 49ers 0-1
+################################# END WEEK 12 RESULTS
