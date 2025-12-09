@@ -308,3 +308,23 @@ NHF Raiders vs. Chargers 0-1
 Broncos vs. Commanders 1-0
 Giants vs. Patriots 0-1
 ################################# END WEEK 13 RESULTS
+################################# WEEK 14 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
+Here are the results so far:
+Cowboys vs. Eagles 0-1
+Chiefs vs. Chargers 0-1
+Buccaneers vs. Falcons 1-0
+Bengals vs. Browns 1-0
+Dolphins vs. Colts 0-1
+Raiders vs. Patriots 1-0
+Cardinals vs. Saints 1-0
+Steelers vs. Jets 1-0
+Giants vs. Commanders 0-1
+Panthers vs. Jaguars 0-1
+Titans vs. Broncos 0-1
+49ers vs. Seahawks 1-0
+Lions vs. Packers 0-1
+Texans vs. Rams 0-1
+Ravens vs. Bills 0-1
+Vikings vs. Bears 1-0
+################################# END WEEK 14 RESULTS
