@@ -328,3 +328,23 @@ Texans vs. Rams 0-1
 Ravens vs. Bills 0-1
 Vikings vs. Bears 1-0
 ################################# END WEEK 14 RESULTS
+################################# WEEK 15 RESULTS
+When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
+Here are the results so far:
+Falcons vs. Buccaneers 1-0
+Browns vs. Bears 0-1
+Ravens vs. Bengals 1-0
+Chargers vs. Chiefs 1-0
+Bills vs. Patriots 1-0
+Commanders vs. Giants 1-0
+Raiders vs. Eagles 0-1
+Jets vs. Jaguars 0-1
+Cardinals vs. Texans 0-1
+Packers vs. Broncos 0-1
+Lions vs. Rams 0-1
+Panthers vs. Saints 0-1
+Titans vs. 49ers 0-1
+Colts vs. Seahawks 0-1
+Vikings vs. Cowboys 1-0
+Dolphins vs. Steelers 0-1
+################################# END WEEK 15 RESULTS
