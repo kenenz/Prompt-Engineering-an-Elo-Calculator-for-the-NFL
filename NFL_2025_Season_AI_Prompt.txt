@@ -58,9 +58,10 @@ Titans,1435
 Commanders,1565
 List each team and their current Elo rating.
 ################################# END START POINT
-################################# WEEK 1 RESULTS
+
 When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
 Here are the results so far:
+
 Cowboys vs. Eagles 0-1
 Chiefs vs. Chargers 0-1
 Buccaneers vs. Falcons 1-0
@@ -77,11 +78,7 @@ Lions vs. Packers 0-1
 Texans vs. Rams 0-1
 Ravens vs. Bills 0-1
 Vikings vs. Bears 1-0
-List each team and their current Elo rating to 2 decimal points.
-################################# END WEEK 1 RESULTS
-################################# WEEK 2 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
+
 Commanders vs. Packers 0-1
 Jaguars vs. Bengals 0-1
 Giants vs. Cowboys 0-1
@@ -98,11 +95,7 @@ Eagles vs. Chiefs 1-0
 Falcons vs. Vikings 1-0
 Buccaneers vs. Texans 1-0
 Chargers vs. Raiders 1-0
-List each team and their current Elo rating to 2 decimal points.
-################################# END WEEK 2 RESULTS
-################################# WEEK 3 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
+
 Dolphins vs. Bills 0-1
 Packers vs. Browns 0-1
 Colts vs. Titans 1-0
@@ -119,11 +112,7 @@ Cowboys vs. Bears 0-1
 Cardinals vs. 49ers 0-1
 Chiefs vs. Giants 1-0
 Lions vs. Ravens 1-0
-List each team and their current Elo rating to 2 decimal points.
-################################# END WEEK 3 RESULTS
-################################# WEEK 4 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
+
 Seahawks vs. Cardinals 1-0
 Vikings vs. Steelers 0-1
 Commanders vs. Falcons 0-1
@@ -140,11 +129,7 @@ Bears vs. Raiders 1-0
 Packers vs. Cowboys 0.5–0.5
 Jets vs. Dolphins 0-1
 Bengals vs. Broncos 0-1
-List each team and their current Elo rating to 2 decimal points.
-################################# END WEEK 4 RESULTS
-################################# WEEK 5 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
+
 49ers vs. Rams 1-0
 Vikings vs. Browns 1-0
 Raiders vs. Colts 0-1
@@ -159,10 +144,7 @@ Lions vs. Bengals 1-0
 Commanders vs. Chargers 1-0
 Patriots vs. Bills 1-0
 Chiefs vs. Jaguars 0-1
-################################# END WEEK 5 RESULTS
-################################# WEEK 6 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
+
 NHF Eagles vs. Giants 0-1
 Broncos vs. Jets 1-0
 Cardinals vs. Colts 0-1
@@ -178,10 +160,7 @@ Bengals vs. Packers 0-1
 Lions vs. Chiefs 0-1
 Bills vs. Falcons 0-1
 Bears vs. Commanders 1-0
-################################# END WEEK 6 RESULTS
-################################# WEEK 7 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
+
 Steelers vs. Bengals 0-1
 Rams vs. Jaguars 1-0
 Saints vs. Bears 0-1
@@ -197,10 +176,7 @@ Packers vs. Cardinals 1-0
 Falcons vs. 49ers 0-1
 Buccaneers vs. Lions 0-1
 Texans vs. Seahawks 0-1
-################################# END WEEK 7 RESULTS
-################################# WEEK 8 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
+
 Vikings vs. Chargers 0-1
 Dolphins vs. Falcons 1-0
 Jets vs. Bengals 1-0
@@ -214,10 +190,7 @@ Cowboys vs. Broncos 0-1
 Titans vs. Colts 0-1
 Packers vs. Steelers 1-0
 Commanders vs. Chiefs 0-1
-################################# END WEEK 8 RESULTS
-################################# WEEK 9 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
+
 Ravens vs. Dolphins 1-0
 Bears vs. Bengals 1-0
 Vikings vs. Lions 1-0
@@ -230,12 +203,9 @@ Broncos vs. Texans 1-0
 Jaguars vs. Raiders 1-0
 Saints vs. Rams 0-1
 Chiefs vs. Bills 0-1
-Seahawaks vs. Commanders 1-0
+Seahawks vs. Commanders 1-0
 Cardinals vs. Cowboys 1-0
-################################# END WEEK 9 RESULTS
-################################# WEEK 10 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
+
 Raiders vs. Broncos 0-1
 Falcons vs. Colts 0-1
 Giants vs. Bears 0-1
@@ -250,10 +220,7 @@ Rams vs. 49ers 1-0
 Lions vs. Commanders 1-0
 Steelers vs. Chargers 0-1
 Eagles vs. Packers 1-0
-################################# END WEEK 10 RESULTS
-################################# WEEK 11 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
+
 Jets vs. Patriots 0-1
 Commanders vs. Dolphins 0-1
 Panthers vs. Falcons 1-0
@@ -269,10 +236,7 @@ Ravens vs. Browns 1-0
 Chiefs vs. Broncos 0-1
 Lions vs. Eagles 0-1
 Cowboys vs. Raiders 1-0
-################################# END WEEK 11 RESULTS
-################################# WEEK 12 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
+
 Bills vs. Texans 0-1
 Steelers vs. Bears 0-1
 Patriots vs. Bengals 1-0
@@ -287,10 +251,7 @@ Eagles vs. Cowboys 0-1
 Falcons vs. Saints 1-0
 Buccaneers vs. Rams 0-1
 Panthers vs. 49ers 0-1
-################################# END WEEK 12 RESULTS
-################################# WEEK 13 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
+
 Packers vs. Lions 1-0
 Chiefs vs. Cowboys 0-1
 Bengals vs. Ravens 1-0
@@ -307,30 +268,22 @@ Bills vs. Steelers 1-0
 NHF Raiders vs. Chargers 0-1
 Broncos vs. Commanders 1-0
 Giants vs. Patriots 0-1
-################################# END WEEK 13 RESULTS
-################################# WEEK 14 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
-Cowboys vs. Eagles 0-1
-Chiefs vs. Chargers 0-1
-Buccaneers vs. Falcons 1-0
-Bengals vs. Browns 1-0
-Dolphins vs. Colts 0-1
-Raiders vs. Patriots 1-0
-Cardinals vs. Saints 1-0
-Steelers vs. Jets 1-0
-Giants vs. Commanders 0-1
-Panthers vs. Jaguars 0-1
-Titans vs. Broncos 0-1
-49ers vs. Seahawks 1-0
-Lions vs. Packers 0-1
-Texans vs. Rams 0-1
-Ravens vs. Bills 0-1
-Vikings vs. Bears 1-0
-################################# END WEEK 14 RESULTS
-################################# WEEK 15 RESULTS
-When processing the results the second team listed will have a Home Field Advantage of 65 Elo points temporarily added to their Elo Rating. The 65 Elo points disappear after the calculations are completed. Some games will have no home field advantage. These games will be marked NHF and neither team will receive 65 Elo points added to their rating. K factor equals 20.
-Here are the results so far:
+
+Cowboys vs. Lions 0-1
+Seahawks vs. Falcons 1-0
+Bengals vs. Bills 0-1
+Titans vs. Browns 1-0
+Commanders vs. Vikings 0-1
+Dolphins vs. Jets 1-0
+Saints vs. Buccaneers 1-0
+Colts vs. Jaguars 0-1
+Steelers vs. Ravens 1-0
+Broncos vs. Raiders 1-0
+Bears vs. Packers 0-1
+Rams vs. Cardinals 1-0
+Texans vs. Chiefs 1-0
+Eagles vs. Chargers 0-1
+
 Falcons vs. Buccaneers 1-0
 Browns vs. Bears 0-1
 Ravens vs. Bengals 1-0
@@ -347,4 +300,5 @@ Titans vs. 49ers 0-1
 Colts vs. Seahawks 0-1
 Vikings vs. Cowboys 1-0
 Dolphins vs. Steelers 0-1
-################################# END WEEK 15 RESULTS
+
+List each team and their current Elo rating to 2 decimal points.
