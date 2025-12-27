@@ -301,4 +301,21 @@ Colts vs. Seahawks 0-1
 Vikings vs. Cowboys 1-0
 Dolphins vs. Steelers 0-1
 
+Rams vs. Seahawks 0-1
+Eagles vs. Commanders 1-0
+Packers vs. Bears 0-1
+Bills vs. Browns 1-0
+Chargers vs. Cowboys 1-0
+Chiefs vs. Titans 0-1
+Bengals vs. Dolphins 1-0
+Jets vs. Saints 0-1
+Vikings vs. Giants 1-0
+Buccaneers vs. Panthers 0-1
+Jaguars vs. Broncos 1-0
+Falcons vs. Cardinals 1-0
+Steelers vs. Lions 1-0
+Raiders vs. Texans 0-1
+Patriots vs. Ravens 1-0
+49ers vs. Colts 1-0
+
 List each team and their current Elo rating to 2 decimal points.
