@@ -318,4 +318,21 @@ Raiders vs. Texans 0-1
 Patriots vs. Ravens 1-0
 49ers vs. Colts 1-0
 
+Cowboys vs. Commanders 1-0
+Lions vs. Vikings 0-1
+Broncos vs. Chiefs 1-0
+Texans vs. Chargers 1-0
+Ravens vs. Packers 1-0
+Cardinals vs. Bengals 0-1
+Steelers vs. Browns 0-1
+Saints vs. Titans 1-0
+Jaguars vs. Colts 1-0
+Buccaneers vs. Dolphins 0-1
+Patriots vs. Jets 1-0
+Seahawks vs. Panthers 1-0
+Giants vs. Raiders 1-0
+Eagles vs. Bills 1-0
+Bears vs. 49ers 0-1
+Rams vs. Falcons 0-1
+
 List each team and their current Elo rating to 2 decimal points.
