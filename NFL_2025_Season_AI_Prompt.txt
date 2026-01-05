@@ -335,4 +335,21 @@ Eagles vs. Bills 1-0
 Bears vs. 49ers 0-1
 Rams vs. Falcons 0-1
 
+Panthers vs. Buccaneers 0-1
+Seahawks vs. 49ers 1-0
+Saints vs. Falcons 0-1
+Browns vs. Bengals 1-0
+Packers vs. Vikings 0-1
+Cowboys vs. Giants 0-1
+Titans vs. Jaguars 0-1
+Colts vs. Texans 0-1
+Jets vs. Bills 0-1
+Lions vs. Bears 1-0
+Chargers vs. Broncos 0-1
+Chiefs vs. Raiders 0-1
+Cardinals vs. Rams 0-1
+Dolphins vs. Patriots 0-1
+Commanders vs. Eagles 1-0
+Ravens vs. Steelers 0-1
+
 List each team and their current Elo rating to 2 decimal points.
